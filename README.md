@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Daanylol
+- 👋 Hi
 - 👀 I’m interested in games
 - 🌱 I’m currently learning Game Dev
 
